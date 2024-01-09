@@ -1,0 +1,16 @@
+https://www.youtube.com/watch?v=gBIP_-9CxoQ
+
+https://www.dheerajhitech.in/suspicious-e-mail-detection-project-with-source-code-in-free-for-college-project/
+
+- Open XAMPP & start- Apache, MySql & Tomcat
+- Keep that folder into "htdocs"
+- Import that SQL into phpmyadmin
+- Open in browser- http://localhost/phishing-mail
+
+- Add suspicious keywords if you want
+- When you sent any suspicious mail, it will detect
+
+
+Another:
+https://github.com/philomathic-guy/Malicious-Web-Content-Detection-Using-Machine-Learning
+
